@@ -1,0 +1,36 @@
+.button-agregar {
+    -fx-background-color: #457c95;
+    -fx-text-fill: white;
+    -fx-font-size: 12px;
+    -fx-background-radius: 8;
+}
+
+.button-agregar:hover {
+    -fx-background-color: #94bdcc;
+    -fx-text-fill:#363636;
+    -fx-cursor: hand;
+}
+
+.button-agregar:pressed {
+    -fx-background-color: white;
+}
+
+.button-eliminar {
+    -fx-background-color: #c70f4e;
+    -fx-text-fill: white;
+    -fx-font-size: 12px;
+    -fx-background-radius: 8;
+}
+
+.button-eliminar:hover {
+    -fx-background-color: #e5195a;
+    -fx-text-fill: #262626;
+    -fx-cursor: hand;
+}
+
+.button-eliminar:pressed {
+    -fx-background-color: white;
+}
+.text-field {
+    -fx-background-radius: 5px;
+}
